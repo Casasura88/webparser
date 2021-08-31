@@ -202,7 +202,7 @@ itemloaders==1.0.4
 itsdangerous==2.0.1
 jdcal==1.0
 jedi==0.18.0
-Jinja2==2.7
+Jinja2==2.9.6
 jmespath==0.10.0
 joblib==0.17.0
 jsbeautifier==1.14.0
