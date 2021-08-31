@@ -1,1 +1,10 @@
-# webparser
+socket
+sys
+logging
+urllib.parse
+bs4
+html.parser
+html.entities
+re
+scrapy
+extruct
