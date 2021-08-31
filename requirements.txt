@@ -452,7 +452,7 @@ setproctitle==1.2.2
 shodan==1.25.0
 simplejson==3.17.2
 simplekv==0.13.0
-six==1.10.0
+six==1.13.0
 slowapi==0.1.4
 smmap==4.0.0
 smoke-zephyr==2.0.1
