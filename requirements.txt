@@ -519,7 +519,7 @@ w3lib==1.22.0
 wafw00f==2.1.0
 wapiti3==3.0.4
 wcwidth==0.1.9
-webargs==7.0.1
+webargs==6.0
 webencodings==0.5.1
 WebOb==1.8.6
 websocket-client==0.57.0
