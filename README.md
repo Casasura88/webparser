@@ -1,5 +1,3 @@
-Please read README.md file
-
 Usage
 
 open webparser.py with text editor nano or etc.
