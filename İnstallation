@@ -1,5 +1,0 @@
-git clone https://github.com/Casasura88/webparser
-cd webparser
-pip3 install -r requirements.txt
-chmod +x webparser.py
-python3 webparser.py
