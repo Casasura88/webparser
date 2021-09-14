@@ -27,5 +27,5 @@ chmod +x webparser.py
 
 python3 webparser.py
 
-export PYTHONWARNINGS="ignore:Unverified HTTPS request"                                                             130 ⨯
+export PYTHONWARNINGS="ignore:Unverified HTTPS request"
 
