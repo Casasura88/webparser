@@ -491,7 +491,7 @@ tld==0.11.11
 tldextract==3.1.0
 tls-parser==1.2.2
 toml==0.10.1
-torbrowser-launcher==0.3.3
+torbrowser-launcher==0.3.6
 torch==1.9.0
 tornado==4.5.3
 tqdm==4.36.1
