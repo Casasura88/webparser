@@ -85,7 +85,7 @@ class Extractor(CrawlSpider):
         self.domains_to_allow = domain
     
     def domainparser(Rule, domains):    
-    	name = 'garantibbva'
+    	name = 'baykarsavunma'
     	allowed_domains = 'www.baykarsavunma.com/'
     	start_domains = 'http://www.baykarsavunma.com/'
     	rules = (
