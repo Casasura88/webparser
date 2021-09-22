@@ -75,7 +75,6 @@ chardet==3.0.4
 charset-normalizer==2.0.4
 CherryPy==8.9.1
 chirp==0.3.0.dev0
-chrome-gnome-shell==0.0.0
 cli-helpers==2.1.0
 click==6.6
 click-plugins==1.1.1
