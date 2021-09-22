@@ -119,6 +119,7 @@ email-validator==1.1.2
 entrypoints==0.3
 et-xmlfile==1.0.1
 ExifRead==2.3.2
+extruct==0.13.0
 fake-useragent==0.1.11
 faraday-agent-parameters-types==1.0.1
 faraday-client==1.1.0
